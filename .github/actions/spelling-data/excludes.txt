@@ -1,0 +1,7 @@
+\.enc$
+\.png$
+\.svg$
+^\.github/actions/spelling-data/
+^\.travis.yml$
+^library/src/main/resources/webroot/js/prettify/
+\.min\.
